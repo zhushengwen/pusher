@@ -5,3 +5,4 @@ jupyter/pyspark-notebook
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
+sonarsource/sonar-scanner-cli

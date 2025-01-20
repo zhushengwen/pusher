@@ -1,0 +1,1 @@
+{"timestamp":1737364657,"data":{"success":true,"message":"找到1个工作流\n\n最近一次运行信息","data":{"latest_run":{"conclusion":"success","created_at":"2025-01-18 17:09:05","name":"Docker","status":"completed","updated_at":"2025-01-18 17:10:16"},"workflows":[{"name":"Docker","state":"active","status":""}]}}}

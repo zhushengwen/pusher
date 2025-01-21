@@ -1,4 +1,4 @@
-stagex/busybox:sx2024.11.0
+busybox:1.33
 #openresty
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0

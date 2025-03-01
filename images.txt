@@ -1,4 +1,4 @@
-langgenius/dify-api:1.0.0
+ubuntu/squid:latest
 #openresty
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0

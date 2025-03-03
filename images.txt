@@ -1,4 +1,4 @@
-jenkins/jenkins:lts-jdk17
+library/nginx:1.23
 #openresty
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0

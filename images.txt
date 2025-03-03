@@ -1,4 +1,4 @@
-library/nginx/blobs/sha256:6b88dd42351a413cff62a9f7f07e28b81ed3fbf28a7584533b04dc15f5d8a09e
+library/nginx/blobs/sha256:6ba1ee9d24885a87a24e4d93f68a9fe949f15d4a2300b6fd43a7906bf2cf1190
 #openresty
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0

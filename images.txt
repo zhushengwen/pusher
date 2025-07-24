@@ -1,4 +1,4 @@
-moelin/1panel:latest
+library/amazoncorretto:11-al2023-jdk
 #openresty
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0

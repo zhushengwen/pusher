@@ -1,4 +1,4 @@
-library/dm8_single:dm8_20240715_rev232765_x86_rh6_64
+xuxuclassmate/dameng:latest
 #openresty
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0

@@ -1,4 +1,4 @@
-library/redis:7
+library/alpine:3.16
 #openresty
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0

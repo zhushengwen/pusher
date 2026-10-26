@@ -1,4 +1,4 @@
-library/nginx:sha256:19e8fada6f44836887d5d75cdf20ca56b5a7de3fc4e0bd1e511819445e745416
+library/nginx:alpine
 #openresty
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
